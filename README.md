@@ -1,3 +1,3 @@
 # introToWeb
 
-Project for the course Introduction to Web Programming.
+Classwork for the course Introduction to Web Programming.
