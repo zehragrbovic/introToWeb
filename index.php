@@ -15,4 +15,5 @@ Flight::route("GET /new", function() {
 });
 
 Flight::start();
+
 ?>
